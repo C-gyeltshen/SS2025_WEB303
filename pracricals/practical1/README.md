@@ -1,5 +1,7 @@
 # Module Practical: Building and Orchestrating Microservices with Go, gRPC, and Docker
 
+## [Repository Link](https://github.com/C-gyeltshen/go-grpc-microservices.git)
+
 ## Part 1: Set up a development environment for microservices using Go, gRPC, and Docker.
 
 **Objective:** This part ensures your machine is ready for microservice development by installing and configuring Go, Protocol Buffers, and Docker.
